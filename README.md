@@ -1,4 +1,4 @@
-# todoAppNinja ➕ ➖ ✅ 🆓
+# todoAppNinja ➕ ➖ 🔎 🆓
 <br>
 Simple Todo App following Modern Javascript tutorial by Shaun Pelling (on Udemy)
 
