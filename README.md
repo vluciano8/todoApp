@@ -1,4 +1,5 @@
-# todoAppNinja 🇦🇷
+# todoAppNinja ➕ ➖ ✅ 🆓
+<br>
 Simple Todo App following Modern Javascript tutorial by Shaun Pelling (on Udemy)
 
 Only using: Vanilla Javascript, CSS, Bootstrap v4 and FontAwesome. No jQuery used.
